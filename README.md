@@ -68,37 +68,6 @@ Enterprise Architecture is a possible long-term direction, but my current founda
 
 ## Technical focus
 
-### Current core stack
-
-* SQL
-* Python
-* PySpark
-* Microsoft Fabric
-* Power BI
-* Git
-
-### Platform and engineering stack
-
-* Docker
-* Airflow
-* PostgreSQL
-* Superset
-* Linux
-* CI/CD
-* testing and documentation
-* monitoring and observability
-
-### Broader programming background
-
-In addition to my current data engineering stack, I have worked with several general-purpose programming languages through academic projects, side projects and earlier software engineering work:
-
-* Java
-* Kotlin
-* C++
-* Python
-* SQL
-## Technical focus
-
 ### Professional data stack
 
 Technologies I currently use or develop in my professional data engineering and BI work:
